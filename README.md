@@ -1,8 +1,8 @@
 ## programming
 
-[js notional machine 1]()   
+[js notional machine 1](coming soon, this is not code but diagrams and instructions for diagramming)   
 [understanding code](https://github.com/colevandersWands/understanding-code)  
-[errors]()  
+[errors](https://github.com/colevandersWands/errors)  
 [trace & log](https://github.com/colevandersWands/trace-and-log)   
 [expanding](https://github.com/colevandersWands/expanding)  
 [behavior & implementation](https://github.com/colevandersWands/behavior-and-implementation)  
