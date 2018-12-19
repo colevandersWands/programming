@@ -1,6 +1,5 @@
 ## programming
 
-[js notional machine 1]()  
 [understanding code](https://github.com/colevandersWands/understanding-code)  
 [errors](https://github.com/colevandersWands/errors)  
 [trace & log](https://github.com/colevandersWands/trace-and-log)   
