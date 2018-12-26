@@ -17,4 +17,4 @@ thu
 
 fri
 * [debugging](https://github.com/colevandersWands/debugging)  
-* [3 layering](https://github.com/colevandersWands/3-layering)  
+* [3 layering](https://github.com/colevandersWands/3-layering)  (probably belongs in 'apps')
