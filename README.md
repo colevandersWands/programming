@@ -3,6 +3,7 @@
 mon
 * [understanding code](https://github.com/colevandersWands/understanding-code)  
 * [errors](https://github.com/colevandersWands/errors)  
+* rhetorical context  
 
 tues
 * [trace & log](https://github.com/colevandersWands/trace-and-log)  
